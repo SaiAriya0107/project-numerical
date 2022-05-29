@@ -1,0 +1,12 @@
+.graph{
+    width: 800px;
+    height: 500px;
+}
+
+#formula{
+    width: 100%;
+    padding: 0px 10px;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 5px;
+    font-size: 20px;
+}
